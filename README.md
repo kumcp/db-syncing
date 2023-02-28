@@ -47,9 +47,10 @@ export PATH=~/.rbenv/shims:$PATH
 sudo apt-get install mysql-client libmysqlclient-dev
 ```
 
-3. Install dependencies
+3. Go back source code and Install dependencies
 
 ```
+cd -
 bundle install
 ```
 
